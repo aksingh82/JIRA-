@@ -88,3 +88,10 @@ https://resisted-soapwort-474.notion.site/jira-b7d61936d6bd4bb7a56c1ab8dd022962
 
 Reference:
 - https://twitter.com/harshbothra
+
+REPORTS:- 
+https://hackerone.com/reports/713900
+https://hackerone.com/reports/1103582
+https://hackerone.com/reports/380354
+https://hackerone.com/reports/197726
+https://hackerone.com/reports/632808
